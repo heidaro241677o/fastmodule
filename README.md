@@ -1,0 +1,2 @@
+# fastmodule
+Python script
